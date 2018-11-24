@@ -5,8 +5,8 @@ This repo is backup of a responsive dashboard I created 2 years ago. The whole d
 ## Demon Link:
 
 ## big screen:
-![big screen snapshot](https://github.com/fengliangcmu/web_crawler/blob/master/description/crawler.gif)
+![big screen snapshot](https://github.com/fengliangcmu/responsive_dashboard_backup/blob/master/screenshot/pc.png)
 ## medium screen:
-![medium screen snapshot](https://github.com/fengliangcmu/web_crawler/blob/master/description/crawler.gif)
+![medium screen snapshot](https://github.com/fengliangcmu/responsive_dashboard_backup/blob/master/screenshot/pad.png)
 ## small screen:
-![small screen snapshot](https://github.com/fengliangcmu/web_crawler/blob/master/description/crawler.gif)
+![small screen snapshot](https://github.com/fengliangcmu/responsive_dashboard_backup/blob/master/screenshot/mobile.png)
