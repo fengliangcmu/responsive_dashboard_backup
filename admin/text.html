@@ -1,0 +1,14 @@
+<style>
+.aa{height:2000px;width:40px;background:#eee;}
+.bb{width:50px;height:80px;background:red;float:right;
+ position:fixed !important; top/**/:0px;
+ position:absolute; z-index:100; top:expression(offsetParent.scrollTop+20);right:20px;
+</style>
+ 
+<div class="aa">
+ 我是不动的。
+ <script>for(var i=0;i<99;i++){document.write(i+"<br />");}</script>
+ 
+ <div class="bb">move</div>
+ 
+</div>
